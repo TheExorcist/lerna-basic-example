@@ -1,6 +1,6 @@
 {
   "name": "project-c",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -8,8 +8,8 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.11",
-    "project-a": "^4.0.1",
-    "project-b": "^4.0.1"
+    "project-a": "^4.0.2",
+    "project-b": "^4.0.2"
   },
   "gitHead": "920bb880289515b525c21fadacb35f4306a2230e",
   "repository": {
