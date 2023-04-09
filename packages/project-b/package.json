@@ -11,7 +11,7 @@
   "dependencies": {
     "project-a": "^4.0.3"
   },
-  "gitHead": "844295e15ffd52c55844812086bd23f7bdfbc91b",
+  "gitHead": "d5666a14aec3133af87f8695580c615156bb5bf0",
   "repository": {
     "url": "https://github.com/TheExorcist/lerna-basic-example.git",
     "directory": "packages/project-b",
