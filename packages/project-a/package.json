@@ -1,6 +1,6 @@
 {
   "name": "@lerna-workspace/project-a",
-  "version": "4.0.3",
+  "version": "4.0.4",
   "description": "",
   "main": "index.js",
   "private": false,

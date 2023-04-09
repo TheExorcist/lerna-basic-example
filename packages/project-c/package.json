@@ -1,6 +1,6 @@
 {
   "name": "project-c",
-  "version": "4.0.3",
+  "version": "4.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -9,7 +9,7 @@
   "dependencies": {
     "lodash": "^4.17.11",
     "project-a": "^4.0.3",
-    "project-b": "^4.0.3"
+    "project-b": "^4.0.4"
   },
   "gitHead": "f2cac9eec7e1be3cb8885ed08ea06182598758b9",
   "repository": {
