@@ -10,5 +10,6 @@
     "lodash": "^4.17.11",
     "project-a": "^1.0.0",
     "project-b": "^1.0.0"
-  }
+  },
+  "gitHead": "ebef190451c332733ef57dd1eac98c823eb9e188"
 }
