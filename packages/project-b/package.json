@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "project-a": "^1.0.0"
-  }
+  },
+  "repository": "git@github.com:TheExorcist/lerna-basic-example.git"
 }
