@@ -1,6 +1,6 @@
 {
   "name": "project-a",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,8 +16,8 @@
     "registry": "https://npm.pkg.github.com"
   },
   "repository": {
-		"url": "https://github.com/TheExorcist/lerna-basic-example.git",
-		"directory": "packages/project-a",
-		"type": "git"
-	}
+    "url": "https://github.com/TheExorcist/lerna-basic-example.git",
+    "directory": "packages/project-a",
+    "type": "git"
+  }
 }
