@@ -1,5 +1,5 @@
 {
-  "name": "project-c",
+  "name": "@lerna-workspace/project-c",
   "version": "4.0.5",
   "description": "",
   "main": "index.js",
@@ -11,10 +11,13 @@
     "project-a": "^4.0.3",
     "project-b": "^4.0.4"
   },
-  "gitHead": "67a0b2ab928c86f73e7d3b0252616a949f6da451",
+  "gitHead": "6fed0f484d1188afca861b677c3ff50b78a83cd4",
   "repository": {
     "url": "https://github.com/TheExorcist/lerna-basic-example.git",
     "directory": "packages/project-c",
     "type": "git"
+  },
+  "publishConfig": {
+    "@TheExorcist:registry": "https://npm.pkg.github.com/TheExorcist"
   }
 }

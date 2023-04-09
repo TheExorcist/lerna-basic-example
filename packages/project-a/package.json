@@ -12,7 +12,7 @@
   "dependencies": {
     "lodash": "^4.17.11"
   },
-  "gitHead": "67a0b2ab928c86f73e7d3b0252616a949f6da451",
+  "gitHead": "6fed0f484d1188afca861b677c3ff50b78a83cd4",
   "repository": {
     "url": "https://github.com/TheExorcist/lerna-basic-example.git",
     "directory": "packages/project-a",
