@@ -1,6 +1,6 @@
 {
   "name": "project-a",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
     "type": "git"
   },
   "publishConfig": {
-     "@xcanchal:registry": "https://npm.pkg.github.com/TheExorcist"
+    "@xcanchal:registry": "https://npm.pkg.github.com/TheExorcist"
   }
 }

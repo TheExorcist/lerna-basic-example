@@ -1,6 +1,6 @@
 {
   "name": "project-b",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "project-a": "^4.0.2"
+    "project-a": "^4.0.3"
   },
   "gitHead": "e94002e972f38e6ac0f3ffe3725d04009fa9ed25",
   "repository": {
