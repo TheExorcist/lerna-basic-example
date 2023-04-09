@@ -1,6 +1,6 @@
 {
   "name": "project-c",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -8,8 +8,8 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.11",
-    "project-a": "^2.0.0",
-    "project-b": "^2.0.0"
+    "project-a": "^3.0.0",
+    "project-b": "^3.0.0"
   },
   "gitHead": "cc6abf2dcd85f680db130b6c6204c318f26381e8",
   "repository": "git@github.com:TheExorcist/lerna-basic-example.git"
