@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "project-a": "^4.0.3"
+    "@TheExorcist/project-a": "4.0.8"
   },
   "gitHead": "d5666a14aec3133af87f8695580c615156bb5bf0",
   "repository": {
