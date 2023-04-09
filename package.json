@@ -1,5 +1,5 @@
 {
-  "name": "lerna-workspace",
+  "name": "TheExorcist",
   "version": "1.0.0",
   "description": "Illustrating the monorepo concept using lerna",
   "main": "index.js",
