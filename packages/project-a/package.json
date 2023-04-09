@@ -11,5 +11,9 @@
   "dependencies": {
     "lodash": "^4.17.11"
   },
-  "repository": "git@github.com:TheExorcist/lerna-basic-example.git"
+  "repository": "git@github.com:TheExorcist/lerna-basic-example.git",
+  "gitHead": "fc8c617d762acf7f9b2a2bc54648957214e203b3",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }

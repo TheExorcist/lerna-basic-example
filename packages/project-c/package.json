@@ -11,6 +11,6 @@
     "project-a": "^3.0.0",
     "project-b": "^3.0.0"
   },
-  "gitHead": "cc6abf2dcd85f680db130b6c6204c318f26381e8",
+  "gitHead": "fc8c617d762acf7f9b2a2bc54648957214e203b3",
   "repository": "git@github.com:TheExorcist/lerna-basic-example.git"
 }
