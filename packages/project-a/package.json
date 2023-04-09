@@ -11,10 +11,13 @@
   "dependencies": {
     "lodash": "^4.17.11"
   },
-  "gitHead": "920bb880289515b525c21fadacb35f4306a2230e",
+  "gitHead": "e94002e972f38e6ac0f3ffe3725d04009fa9ed25",
   "repository": {
     "url": "https://github.com/TheExorcist/lerna-basic-example.git",
     "directory": "packages/project-a",
     "type": "git"
+  },
+  "publishConfig": {
+     "@xcanchal:registry": "https://npm.pkg.github.com/TheExorcist"
   }
 }
