@@ -1,15 +1,15 @@
 {
   "name": "@TheExorcist/project-c",
-  "version": "4.0.8",
+  "version": "5.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.11",
-    "@TheExorcist/project-a": "4.0.8",
-    "@TheExorcist/project-b": "4.0.8"
+    "@TheExorcist/project-a": "^5.0.0",
+    "@TheExorcist/project-b": "^5.0.0",
+    "lodash": "^4.17.11"
   },
   "gitHead": "d5666a14aec3133af87f8695580c615156bb5bf0",
   "repository": {
