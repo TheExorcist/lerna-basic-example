@@ -1,8 +1,9 @@
 {
-  "name": "project-a",
+  "name": "@lerna-workspace/project-a",
   "version": "4.0.3",
   "description": "",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,13 +12,13 @@
   "dependencies": {
     "lodash": "^4.17.11"
   },
-  "gitHead": "e94002e972f38e6ac0f3ffe3725d04009fa9ed25",
+  "gitHead": "f2cac9eec7e1be3cb8885ed08ea06182598758b9",
   "repository": {
     "url": "https://github.com/TheExorcist/lerna-basic-example.git",
     "directory": "packages/project-a",
     "type": "git"
   },
   "publishConfig": {
-    "@xcanchal:registry": "https://npm.pkg.github.com/TheExorcist"
+    "@TheExorcist:registry": "https://npm.pkg.github.com/TheExorcist"
   }
 }
